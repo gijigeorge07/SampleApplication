@@ -1,0 +1,4 @@
+{
+  "connectionString": "mongodb://localhost/samplenodejs",
+  "secret": "6b211e6904d06e2f5d52542789013166c3739ecae0cbca970d88af66697df35126581bed636cfafbef5a4d1bf8c203c4ebc1e55749c42e2e9802799a58046910"
+}
